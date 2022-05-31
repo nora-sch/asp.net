@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\bin\Debug\UtilisationClasse.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\bin\Debug\UtilisationClasse.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\bin\Debug\UtilisationClasse.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\obj\Debug\UtilisationClasse.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\obj\Debug\UtilisationClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\obj\Debug\UtilisationClasse.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\obj\Debug\UtilisationClasse.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\UtilisationClasse\UtilisationClasse\obj\Debug\UtilisationClasse.pdb

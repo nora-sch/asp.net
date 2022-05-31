@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\obj\Debug\DemoLinq2.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\obj\Debug\DemoLinq2.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\obj\Debug\DemoLinq2.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\bin\Debug\DemoLinq2.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\bin\Debug\DemoLinq2.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\bin\Debug\DemoLinq2.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\obj\Debug\DemoLinq2.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq2\DemoLinq2\obj\Debug\DemoLinq2.pdb

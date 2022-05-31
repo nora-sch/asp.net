@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\bin\Debug\DemoLambda.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\bin\Debug\DemoLambda.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\bin\Debug\DemoLambda.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\obj\Debug\DemoLambda.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\obj\Debug\DemoLambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\obj\Debug\DemoLambda.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\obj\Debug\DemoLambda.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLambda\DemoLambda\obj\Debug\DemoLambda.pdb

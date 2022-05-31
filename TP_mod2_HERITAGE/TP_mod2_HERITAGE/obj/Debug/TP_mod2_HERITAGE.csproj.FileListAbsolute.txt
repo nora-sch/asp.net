@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\bin\Debug\TP_mod2_HERITAGE.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\bin\Debug\TP_mod2_HERITAGE.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\bin\Debug\TP_mod2_HERITAGE.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\obj\Debug\TP_mod2_HERITAGE.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\obj\Debug\TP_mod2_HERITAGE.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\obj\Debug\TP_mod2_HERITAGE.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\obj\Debug\TP_mod2_HERITAGE.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod2_HERITAGE\TP_mod2_HERITAGE\obj\Debug\TP_mod2_HERITAGE.pdb

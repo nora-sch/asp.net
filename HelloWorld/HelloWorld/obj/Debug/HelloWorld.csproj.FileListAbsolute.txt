@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

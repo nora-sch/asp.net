@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\bin\Debug\DemoLinq3.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\bin\Debug\DemoLinq3.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\bin\Debug\DemoLinq3.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\obj\Debug\DemoLinq3.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\obj\Debug\DemoLinq3.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\obj\Debug\DemoLinq3.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\obj\Debug\DemoLinq3.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoLinq3\DemoLinq3\obj\Debug\DemoLinq3.pdb

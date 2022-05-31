@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\bin\Debug\DemoGenerique.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\bin\Debug\DemoGenerique.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\bin\Debug\DemoGenerique.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\obj\Debug\DemoGenerique.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\obj\Debug\DemoGenerique.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\obj\Debug\DemoGenerique.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\obj\Debug\DemoGenerique.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoGenerique\DemoGenerique\obj\Debug\DemoGenerique.pdb

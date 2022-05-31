@@ -1,0 +1,6 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\BO\BO\bin\Debug\BO.dll
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\BO\BO\bin\Debug\BO.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\BO\BO\obj\Debug\BO.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\BO\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\BO\BO\obj\Debug\BO.dll
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\BO\BO\obj\Debug\BO.pdb
