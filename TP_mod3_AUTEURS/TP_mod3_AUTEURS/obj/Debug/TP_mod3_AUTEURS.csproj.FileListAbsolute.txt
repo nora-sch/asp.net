@@ -1,0 +1,8 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\bin\Debug\TP_mod3_AUTEURS.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\bin\Debug\TP_mod3_AUTEURS.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\bin\Debug\TP_mod3_AUTEURS.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\obj\Debug\TP_mod3_AUTEURS.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\obj\Debug\TP_mod3_AUTEURS.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\obj\Debug\TP_mod3_AUTEURS.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\obj\Debug\TP_mod3_AUTEURS.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\TP_mod3_AUTEURS\TP_mod3_AUTEURS\obj\Debug\TP_mod3_AUTEURS.pdb
