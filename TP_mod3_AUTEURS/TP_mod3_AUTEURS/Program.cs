@@ -35,8 +35,11 @@ namespace TP_mod3_AUTEURS
             Console.WriteLine();
             Console.WriteLine("Le nombre moyen de pages par livre par auteur");
             var livresParAuthor = ListeLivres.GroupBy(l => l.Auteur);
-              foreach (var livres in livresParAuthor)
-            {
+           
+           // Console.WriteLine(livresParAuthor.OrderBy(p=>p.Average(l => l.NbPages)));
+            var result = livresParAuthor.OrderBy(p => p.Average(l => l.NbPages));
+              foreach (var livres in result)
+            { 
                 Console.WriteLine($"{livres.Average(l => l.NbPages)} pages - {livres.Key.Nom} {livres.Key.Prenom} ");
             }
 
