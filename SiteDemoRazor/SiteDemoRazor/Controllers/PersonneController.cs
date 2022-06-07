@@ -83,12 +83,24 @@ namespace SiteDemoRazor.Controllers
         {
             try
             {
-                var personneDb = personnes.FirstOrDefault(p => p.Id == personne.Id);
-                personneDb.Nom = personne.Nom;
-                personneDb.Prenom = personne.Prenom;
-                personneDb.Age = personne.Age;
+                if (ModelState.IsValid)
+                {
 
-                return RedirectToAction("Index");
+                if(personnes.Any(p=>p.Nom.ToUpper()==personne.Nom.ToUpper()
+                && p.Prenom.ToUpper() == personne.Prenom.ToUpper()
+                && personne.Id!=p.Id))
+                    {
+                        ModelState.AddModelError("", "Il existe déjà une personne portant ce nom et prénom");
+                        return View();
+                    }
+                    var personneDb = personnes.FirstOrDefault(p => p.Id == personne.Id);
+                    personneDb.Nom = personne.Nom;
+                    personneDb.Prenom = personne.Prenom;
+                    personneDb.Age = personne.Age;
+
+                    return RedirectToAction("Index");
+                }
+                return View();
             }
             catch
             {
