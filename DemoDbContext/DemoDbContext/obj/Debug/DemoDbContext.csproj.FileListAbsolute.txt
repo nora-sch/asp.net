@@ -11,3 +11,6 @@ C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\Enti
 C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.csproj.CopyComplete
 C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.exe
 C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.Migrations.InitialCreate.resources
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.csproj.GenerateResource.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.Migrations.deuxieme.resources
