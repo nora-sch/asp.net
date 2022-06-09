@@ -1,0 +1,13 @@
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.csproj.AssemblyReference.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.csproj.SuggestedBindingRedirects.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.csproj.CoreCompileInputs.cache
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\DemoDbContext.exe.config
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\DemoDbContext.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\DemoDbContext.pdb
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\EntityFramework.dll
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\EntityFramework.xml
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.csproj.CopyComplete
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.exe
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\DemoDbContext\DemoDbContext\obj\Debug\DemoDbContext.pdb
