@@ -90,3 +90,5 @@ C:\Users\noras\Desktop\ENI\C#\Demo_TP\AlbumMusique\AlbumMusique\bin\EntityFramew
 C:\Users\noras\Desktop\ENI\C#\Demo_TP\AlbumMusique\AlbumMusique\bin\EntityFramework.SqlServer.dll
 C:\Users\noras\Desktop\ENI\C#\Demo_TP\AlbumMusique\AlbumMusique\bin\EntityFramework.xml
 C:\Users\noras\Desktop\ENI\C#\Demo_TP\AlbumMusique\AlbumMusique\bin\EntityFramework.SqlServer.xml
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\AlbumMusique\AlbumMusique\obj\Debug\AlbumMusique.Migrations.InitialCreate.resources
+C:\Users\noras\Desktop\ENI\C#\Demo_TP\AlbumMusique\AlbumMusique\obj\Debug\AlbumMusique.csproj.GenerateResource.cache
